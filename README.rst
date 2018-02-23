@@ -1,12 +1,7 @@
-Sample Module Repository
+Sysmod
 ========================
 
-This simple project is an example repo for Python projects.
+Sysmod is a system info project based on the samplemod template.
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
-
----------------
-
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
-
-✨🍰✨
+Simply install via the command line (venv recommended) and use the
+sysmod command to run the module.
